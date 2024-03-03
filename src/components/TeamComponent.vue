@@ -47,6 +47,7 @@ export default {
   display: flex;
   border: none;
   width: fit-content;
+  cursor: pointer;
 }
 
 .add-button__icon {

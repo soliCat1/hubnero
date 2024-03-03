@@ -61,5 +61,6 @@ th {
   letter-spacing: 0;
   background-color: transparent;
   color: inherit;
+  cursor: pointer;
 }
 </style>
